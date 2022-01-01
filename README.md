@@ -1,2 +1,2 @@
 # ShenChanBlue
-Hello Woooorld~!
+Hello Woo
